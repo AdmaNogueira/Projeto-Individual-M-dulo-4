@@ -15,4 +15,6 @@ Instituição (**1,N**) abre Curso; Curso (**1,N**) possui Coordenadores; Coorde
 
 Segue modelo conceitual:
 
-<IMG SRC = ""
+<IMG SRC = "https://github.com/AdmaNogueira/Projeto-Individual-Mod-4/blob/main/Captura%20de%20tela%202023-01-30%20164312.png">
+
+Para este trabalho foi utilizada a aplicação **BR Modelo Web**.
